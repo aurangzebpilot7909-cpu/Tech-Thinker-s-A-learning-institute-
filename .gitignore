@@ -1,0 +1,44 @@
+# Expo
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Node
+node_modules/
+yarn-error.log
+
+# Environment
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# React Native / Expo
+.gradle
+build/
+.watchman-cookie-*
+
+# Firebase
+.firebaserc
+firebase-debug.log
+
+# Misc
+.cache/
+*.log
+thumbs.db
